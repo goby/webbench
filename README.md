@@ -6,9 +6,9 @@ Web Bench is very simple tool for benchmarking WWW or proxy servers. Uses fork()
 
 
 ## Download
-**Author**: [Radim Kolar](https://github.com/hsn10)
+**Author**: [Radim Kolar](https://github.com/hsn10) 
 
-**Program** : Web Bench
+**Program** : Web Bench 
 
 **Version**: 1.5
 
